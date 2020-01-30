@@ -6,4 +6,5 @@
 
 ### Credits
 > This theme is based on the [Sweet](https://store.kde.org/p/1294174) theme.
+
 > Contains Icons from the [Nilium](https://www.pling.com/p/1226329/) theme.
