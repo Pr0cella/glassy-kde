@@ -1,5 +1,5 @@
 # Glassy
-## A minimalistic theme for KDE plasma 
+## A minimalistic theme for KDE Plasma 
 
 ![Glassy preview](preview/preview.png)
   (Icons: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme))
