@@ -89,8 +89,8 @@ ForegroundPositive=128,255,128
 ForegroundVisited=170,89,197
 
 [General]
-ColorScheme=KvGlassy
-Name=KvGlassy
+ColorScheme=Glassy
+Name=Glassy
 shadeSortColumn=true
 
 [KDE]
