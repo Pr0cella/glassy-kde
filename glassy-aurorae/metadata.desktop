@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Glassy
+Comment=Transparent window decoration for Aurorae based on Freeze
+X-KDE-PluginInfo-Name=Glassy
+X-KDE-PluginInfo-Author=KDE VDG, UtG, MirceaKitsune, Pr0cella
+X-KDE-PluginInfo-Category=Aurorae Theme
+X-KDE-PluginInfo-Depends=KDE4
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=GPL V2
+X-KDE-PluginInfo-EnabledByDefault=true
