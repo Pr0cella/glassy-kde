@@ -1,11 +1,11 @@
 [Background]
-Color=22,25,37
+Color=23,26,34
 
 [BackgroundFaint]
-Color=40,44,52
+Color=23,26,34
 
 [BackgroundIntense]
-Color=40,44,52
+Color=23,26,34
 
 [Color0]
 Color=40,44,52
@@ -92,5 +92,5 @@ Color=130,137,151
 Blur=true
 ColorRandomization=false
 Description=Glassy
-Opacity=0.65
+Opacity=0.5
 Wallpaper=
