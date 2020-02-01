@@ -5,7 +5,7 @@
   (Icons: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme))
 
 ### Suggestions:
-Apps:[LatteDock](https://github.com/KDE/latte-dock) [GLava](https://github.com/jarcode-foss/glava)
+Apps: [LatteDock](https://github.com/KDE/latte-dock), [GLava](https://github.com/jarcode-foss/glava)
 
 Icons: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 
