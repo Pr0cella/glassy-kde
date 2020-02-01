@@ -7,9 +7,13 @@
 ### Suggested Settings:
 
 Kvantum theme: Glassy
+
 Colors: Glassy
+
 Aurorae theme (window decorations): Glassy
+
 Konsole colors: Glassy
+
 Icons: Papirus
 
 > Enable slight background blur in desktop effects to improve readability
