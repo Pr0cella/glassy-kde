@@ -6,7 +6,9 @@
 
 ### Suggestions:
 [LatteDock](https://github.com/KDE/latte-dock)
+
 [GLava](https://github.com/jarcode-foss/glava)
+
 Icons: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 
 > Enable slight background blur in desktop effects to improve readability
