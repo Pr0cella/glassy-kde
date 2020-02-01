@@ -26,6 +26,3 @@ Icons: Papirus
 > Contains rounded backgrounds from [varlesh](https://github.com/varlesh/rounded).
 
 > Aurorae theme based on [Freeze](https://store.kde.org/p/1002663/).
-
-### License
-This theme is licensed under [CC BY-SA.](https://creativecommons.org/licenses/by-sa/4.0/)
