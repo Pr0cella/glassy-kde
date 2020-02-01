@@ -9,6 +9,8 @@ Apps: [LatteDock](https://github.com/KDE/latte-dock), [GLava](https://github.com
 
 Icons: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 
+Terminal Font: Source Code Pro
+
 > Enable slight background blur in desktop effects to improve readability
 
 ### [KDE-Store collection](https://www.pling.com/c/1356013/)
