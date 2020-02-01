@@ -4,19 +4,14 @@
 ![Glassy preview](glassy-plasma/preview/preview.png)
   (Icons: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme))
 
-### Suggested Settings:
-
-Kvantum theme: Glassy
-
-Colors: Glassy
-
-Aurorae theme (window decorations): Glassy
-
-Konsole colors: Glassy
-
-Icons: Papirus
+### Suggestions:
+[LatteDock](https://github.com/KDE/latte-dock)
+[GLava](https://github.com/jarcode-foss/glava)
+Icons: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 
 > Enable slight background blur in desktop effects to improve readability
+
+### [KDE-Store collection](https://www.pling.com/c/1356013/)
 
 ### Credits
 > This theme is based on [Sweet](https://store.kde.org/p/1294174).
