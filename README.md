@@ -25,11 +25,11 @@ Terminal Font: Source Code Pro
 
 ### Credits
 
-> Contains icons from [Nilium](https://github.com/mcder3/Nilium-Plasma-Theme).
+> Contains icons from [Nilium](https://github.com/mcder3/Nilium-Plasma-Theme)
 
-> Rounded borders based on [rounded](https://github.com/varlesh/rounded).
+> Rounded borders based on [rounded](https://github.com/varlesh/rounded)
 
-> Aurorae theme based on [Freeze](https://store.kde.org/p/1002663/).
+> Aurorae theme based on [Freeze](https://store.kde.org/p/1002663/)
 
 > Color scheme based on [Arc](https://github.com/PapirusDevelopmentTeam/arc-kde)
 
