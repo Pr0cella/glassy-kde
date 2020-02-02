@@ -3,7 +3,11 @@
 
 ![Glassy preview](Pictures/sharp.png)
 
+(Sharp)
+
 ![Glassy preview](Pictures/round.png)
+
+(Rounded) 
 
 ### Suggestions:
 
