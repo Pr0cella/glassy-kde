@@ -24,10 +24,14 @@ Terminal Font: Source Code Pro
 ### [KDE-Store collection](https://www.pling.com/c/1356013/)
 
 ### Credits
-> This theme is based on [Sweet](https://store.kde.org/p/1294174).
 
-> Contains icons from [Nilium](https://www.pling.com/p/1226329/).
+> Contains icons from [Nilium](https://github.com/mcder3/Nilium-Plasma-Theme).
 
 > Rounded borders based on [rounded](https://github.com/varlesh/rounded).
 
 > Aurorae theme based on [Freeze](https://store.kde.org/p/1002663/).
+
+> Color scheme based on [Arc](https://github.com/PapirusDevelopmentTeam/arc-kde)
+
+> Kvantum theme based on [KvGlass](https://store.kde.org/p/1201321/)
+
