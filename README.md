@@ -24,7 +24,7 @@ Terminal Font: Source Code Pro
 ### [KDE-Store collection](https://www.pling.com/c/1356013/)
 
 ### Credits
-[Wallpaper](https://www.pling.com/p/1310882/)
+[Wallpaper by Charlie Henson](https://www.pling.com/p/1310882/)
 
 > Contains icons from [Nilium](https://github.com/mcder3/Nilium-Plasma-Theme)
 
