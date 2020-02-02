@@ -28,6 +28,6 @@ Terminal Font: Source Code Pro
 
 > Contains icons from [Nilium](https://www.pling.com/p/1226329/).
 
-> Rounded backgrounds based on [rounded](https://github.com/varlesh/rounded).
+> Rounded borders based on [rounded](https://github.com/varlesh/rounded).
 
 > Aurorae theme based on [Freeze](https://store.kde.org/p/1002663/).
