@@ -11,7 +11,7 @@
    id="svg2"
    viewBox="0 0 54 32"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="edit.svg"
+   sodipodi:docname="delete.svg"
    width="54"
    height="32">
   <sodipodi:namedview
@@ -27,9 +27,9 @@
      inkscape:window-height="1009"
      id="namedview12"
      showgrid="true"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="41.627351"
-     inkscape:cy="-7.7058251"
+     inkscape:zoom="2.828427"
+     inkscape:cx="-22.520373"
+     inkscape:cy="30.569068"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -40,7 +40,11 @@
      fit-margin-bottom="0"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:pagecheckerboard="true" />
+     inkscape:pagecheckerboard="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid845" />
+  </sodipodi:namedview>
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -65,7 +69,7 @@
   </defs>
   <g
      style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
-     id="16-16-edit-delete"
+     id="16-16-delete"
      transform="translate(-16,16)">
     <path
        inkscape:connector-curvature="0"
@@ -82,7 +86,7 @@
        style="opacity:1;fill:#ee4a50;fill-opacity:0;stroke-width:1.00618851;stroke-miterlimit:1.41420996;stroke-dasharray:none" />
   </g>
   <g
-     id="22-22-edit-delete"
+     id="22-22-delete"
      transform="translate(0,10)">
     <path
        sodipodi:nodetypes="ccccccccssssccccccccccccccccssssccccccccccc"
@@ -99,7 +103,7 @@
        style="fill:#008080;fill-opacity:0" />
   </g>
   <g
-     id="edit-delete"
+     id="delete"
      transform="translate(22)">
     <path
        id="rect894"
@@ -113,58 +117,6 @@
        height="32"
        width="32"
        id="rect965"
-       style="fill:#00ffff;fill-opacity:0" />
-  </g>
-  <g
-     id="22-22-edit-clear-history"
-     transform="translate(54,32)">
-    <path
-       sodipodi:nodetypes="ccccccccssssccccccccccccccccssssccccccccccc"
-       inkscape:connector-curvature="0"
-       id="rect840-6"
-       d="M 7,2 V 3 5 H 6 5 3 v 1 h 2 v 12 c 0,1.108 0.892,2 2,2 h 8 c 1.108,0 2,-0.892 2,-2 V 6 h 2 V 5 H 17 16 15 V 2 H 8 Z m 1,1 h 6 V 5 H 8 Z M 6,6 h 10 v 12 c 0,0.554 -0.446,1 -1,1 H 7 C 6.446,19 6,18.554 6,18 Z m 2,2 v 9 H 9 V 8 Z m 5,0 v 9 h 1 V 8 Z"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:1.0444659" />
-    <rect
-       y="0"
-       x="0"
-       height="22"
-       width="22"
-       id="rect888-7"
-       style="fill:#008080;fill-opacity:0" />
-  </g>
-  <g
-     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
-     id="16-16-edit-clear-history"
-     transform="translate(54,-16)">
-    <path
-       inkscape:connector-curvature="0"
-       id="path2-3-6"
-       style="fill:#ffffff;fill-opacity:1"
-       d="M 11,15 H 5 C 3.896,15 3,14.104 3,13 V 4 c 0,0 1,0 1,0 0,0 0,9 0,9 0,0.552 0.448,1 1,1 h 6 c 0.552,0 1,-0.448 1,-1 V 4 c 0,0 1,0 1,0 0,0 0,9 0,9 0,1.104 -0.896,2 -2,2 z M 7,5 v 8 H 6 V 5 Z m 3,0 v 8 H 9 V 5 Z m 1,-2 h 4 V 4 H 1 V 3 H 5 V 1 h 6 z M 10,2 H 6 v 1 h 4 z" />
-    <rect
-       ry="0.87084872"
-       y="0"
-       x="0"
-       height="16"
-       width="16"
-       id="rect817-6-7"
-       style="opacity:1;fill:#ee4a50;fill-opacity:0;stroke-width:1.00618851;stroke-miterlimit:1.41420996;stroke-dasharray:none" />
-  </g>
-  <g
-     id="edit-clear-history"
-     transform="translate(54)">
-    <path
-       id="rect894-6"
-       d="M 13,3 C 11.338,3 10,4.338 10,6 V 8 H 4 v 3 h 3 v 15 c 0,1.662 1.338,3 3,3 h 12 c 1.662,0 3,-1.338 3,-3 V 11 h 3 V 8 H 22 V 6 C 22,4.338 20.662,3 19,3 Z m 0,1 h 6 c 1.108,0 2,0.892 2,2 V 8 H 20 V 6 C 20,5.446 19.554,5 19,5 H 13 C 12.446,5 12,5.446 12,6 V 8 H 11 V 6 c 0,-1.108 0.892,-2 2,-2 z m 0,2 h 6 V 8 H 13 Z M 5,9 h 22 v 1 H 25 24 8 7 5 Z m 3,2 h 16 v 15 c 0,1.108 -0.892,2 -2,2 H 10 C 8.892,28 8,27.108 8,26 Z m 3,2 v 13 h 3 V 13 Z m 7,0 v 13 h 3 V 13 Z m -6,1 h 1 v 11 h -1 z m 7,0 h 1 v 11 h -1 z"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:1.08711457"
-       inkscape:connector-curvature="0" />
-    <rect
-       ry="0"
-       y="0"
-       x="0"
-       height="32"
-       width="32"
-       id="rect965-7"
        style="fill:#00ffff;fill-opacity:0" />
   </g>
 </svg>

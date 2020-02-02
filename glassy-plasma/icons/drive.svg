@@ -10,8 +10,8 @@
    version="1.1"
    id="svg2"
    viewBox="0 0 54 32"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="drive.svgz">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="drive.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -22,16 +22,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1009"
      id="namedview15"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="-18.487799"
-     inkscape:cy="18.298159"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="11.313708"
+     inkscape:cx="71.155282"
+     inkscape:cy="7.8551987"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:pagecheckerboard="true" />
   <metadata
      id="metadata21">
     <rdf:RDF>
@@ -62,7 +63,7 @@
        inkscape:connector-curvature="0"
        id="path2"
        d="M 6,2 C 4.896,2 4,2.896 4,4 v 11 1 2 c 0,1.104 0.896,2 2,2 h 10 c 1.104,0 2,-0.896 2,-2 V 16 15 4 C 18,2.896 17.104,2 16,2 Z m 0,1 h 10 c 0.552,0 1,0.448 1,1 V 15 H 5 V 4 C 5,3.448 5.448,3 6,3 Z m 5,1 C 8.24,4 6,6.24 6,9 H 7 C 7,6.792 8.792,5 11,5 Z m 4,5 c 0,2.208 -1.792,4 -4,4 v 1 c 2.76,0 5,-2.24 5,-5 z M 5,16 h 12 v 2 c 0,0.552 -0.448,1 -1,1 H 6 C 5.448,19 5,18.552 5,18 Z m 1,1 v 1 h 1 v -1 z m 7,0 v 1 h 3 v -1 z"
-       style="fill:#C3C7D1" />
+       style="fill:#FFFFFF" />
     <rect
        y="0"
        x="0"
@@ -80,68 +81,68 @@
       <path
          inkscape:connector-curvature="0"
          d="m 24,3 c 1.104,0 2,0.896 2,2 v 22 c 0,1.104 -0.896,2 -2,2 H 8 C 6.896,29 6,28.104 6,27 V 5 C 6,3.896 6.896,3 8,3 Z m 0,1 H 8 C 7.448,4 7,4.448 7,5 v 22 c 0,0.552 0.448,1 1,1 h 16 c 0.552,0 1,-0.448 1,-1 V 5 C 25,4.448 24.552,4 24,4 Z"
-         style="fill:#C3C7D1"
+         style="fill:#FFFFFF"
          id="path2-2" />
       <rect
          x="6"
          y="22"
          width="20"
          height="1"
-         style="fill:#C3C7D1"
+         style="fill:#FFFFFF"
          id="rect4" />
       <path
          inkscape:connector-curvature="0"
          d="m 22.5,24 c 0.828,0 1.5,0.672 1.5,1.5 0,0.828 -0.672,1.5 -1.5,1.5 h -4 C 17.672,27 17,26.328 17,25.5 17,24.672 17.672,24 18.5,24 Z M 22,25 h -3 v 1 h 3 z"
-         style="fill:#C3C7D1"
+         style="fill:#FFFFFF"
          id="path6" />
       <path
          inkscape:connector-curvature="0"
          d="M 9.5,24 C 10.328,24 11,24.672 11,25.5 11,26.328 10.328,27 9.5,27 8.672,27 8,26.328 8,25.5 8,24.672 8.672,24 9.5,24 Z M 10,25 H 9 v 1 h 1 z"
-         style="fill:#C3C7D1"
+         style="fill:#FFFFFF"
          id="path8" />
       <path
          inkscape:connector-curvature="0"
          d="m 16,5 c 4.415,0 8,3.585 8,8 0,4.415 -3.585,8 -8,8 -4.415,0 -8,-3.585 -8,-8 0,-4.415 3.585,-8 8,-8 z m 0,1 c 3.863,0 7,3.137 7,7 0,3.863 -3.137,7 -7,7 -3.863,0 -7,-3.137 -7,-7 0,-3.863 3.137,-7 7,-7 z"
-         style="fill:#C3C7D1"
+         style="fill:#FFFFFF"
          id="path10" />
       <path
          inkscape:connector-curvature="0"
          d="m 16,10 c 1.656,0 3,1.344 3,3 0,1.656 -1.344,3 -3,3 -1.656,0 -3,-1.344 -3,-3 0,-1.656 1.344,-3 3,-3 z m 0,1 c 1.104,0 2,0.896 2,2 0,1.104 -0.896,2 -2,2 -1.104,0 -2,-0.896 -2,-2 0,-1.104 0.896,-2 2,-2 z"
-         style="fill:#C3C7D1"
+         style="fill:#FFFFFF"
          id="path12" />
       <rect
          x="8"
          y="5"
          width="1"
          height="1"
-         style="fill:#C3C7D1"
+         style="fill:#FFFFFF"
          id="rect14" />
       <rect
          x="23"
          y="5"
          width="1"
          height="1"
-         style="fill:#C3C7D1"
+         style="fill:#FFFFFF"
          id="rect16" />
       <rect
          x="8"
          y="20"
          width="1"
          height="1"
-         style="fill:#C3C7D1"
+         style="fill:#FFFFFF"
          id="rect18" />
       <rect
          x="23"
          y="20"
          width="1"
          height="1"
-         style="fill:#C3C7D1"
+         style="fill:#FFFFFF"
          id="rect20" />
       <circle
          cx="16"
          cy="13"
          r="1"
-         style="fill:#C3C7D1"
+         style="fill:#FFFFFF"
          id="circle22" />
     </g>
     <rect
@@ -159,7 +160,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path2-1"
-       style="fill:#C3C7D1"
+       style="fill:#FFFFFF"
        d="M 14,15 H 2 V 1 H 14 Z M 5,13 H 4 v 1 h 1 z m 7,0 H 9 v 1 h 3 z M 13,2 H 3 v 10 h 10 z m -5,8 c 1.656,0 3,-1.344 3,-3 h 1 c 0,2.199 -1.778,3.986 -3.974,4 H 8 Z M 4,7 C 4,4.792 5.792,3 8,3 V 4 C 6.344,4 5,5.344 5,7 Z" />
     <rect
        y="0"
@@ -168,5 +169,167 @@
        width="16"
        id="rect817"
        style="fill:#ffffff;fill-opacity:0;stroke-width:1.00855625" />
+  </g>
+  <g
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+     id="drive-removable-media-usb-pendrive"
+     transform="translate(22,32)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path2-6"
+       style="fill:#ffffff"
+       d="M 21,29 H 11 C 9.344,29 8,27.656 8,26 V 10 h 16 v 16 c 0,1.656 -1.344,3 -3,3 z M 23,11 H 9 v 15 c 0,1.104 0.896,2 2,2 h 10 c 1.104,0 2,-0.896 2,-2 z M 21,10 H 20 V 4 h -8 v 6 H 11 V 3 H 21 Z M 19,8 H 17 V 5 h 2 z M 15,8 H 13 V 5 h 2 z"
+       sodipodi:nodetypes="sssccssccsssscccccccccccccccccccc" />
+    <rect
+       y="0"
+       x="0"
+       height="32"
+       width="32"
+       id="rect817-75"
+       style="fill:#ffffff;fill-opacity:0;stroke-width:0.86188805" />
+  </g>
+  <g
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+     id="22-22-drive-removable-media-usb-pendrive"
+     transform="translate(0,32)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1"
+       id="path2-2-3"
+       d="M 14,8 V 3 H 8 V 8 H 7 V 2 h 8 v 6 h 2 v 10 c 0,1.104 -0.896,2 -2,2 H 7 C 5.896,20 5,19.104 5,18 V 8 Z m 2,1 H 6 v 9 c 0,0.552 0.448,1 1,1 h 8 c 0.552,0 1,-0.448 1,-1 z M 10,6 H 9 V 4 h 1 z m 3,0 H 12 V 4 h 1 z"
+       sodipodi:nodetypes="cccccccccssssccccssssccccccccccc" />
+    <rect
+       y="0"
+       x="0"
+       height="22"
+       width="22"
+       id="rect817-1"
+       style="fill:#ffffff;fill-opacity:0;stroke-width:0.54634756" />
+  </g>
+  <g
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+     id="16-16-drive-removable-media-usb-pendrive"
+     transform="translate(-16,32)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1"
+       id="path2-23"
+       d="m 12,8 h 1 c 0.552,0 1,0.448 1,1 v 5 c 0,0.552 -0.448,1 -1,1 H 3 C 2.448,15 2,14.552 2,14 V 9 C 2,8.448 2.448,8 3,8 H 4 V 1 h 8 z m 1,1 H 3 v 5 H 13 Z M 11,8 V 2 H 5 V 8 Z M 7,6 H 6 V 3 h 1 z m 3,0 H 9 V 3 h 1 z"
+       sodipodi:nodetypes="csssssssscccccccccccccccccccccccc" />
+    <rect
+       y="0"
+       x="0"
+       height="16"
+       width="16"
+       id="rect817-7"
+       style="fill:#ffffff;fill-opacity:0;stroke-width:0.86204332" />
+  </g>
+  <g
+     transform="translate(22,-32)"
+     id="drive-removable-media-usb"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996">
+    <path
+       sodipodi:nodetypes="sssccssccsssscccccccccccccccccccc"
+       d="M 21,29 H 11 C 9.344,29 8,27.656 8,26 V 10 h 16 v 16 c 0,1.656 -1.344,3 -3,3 z M 23,11 H 9 v 15 c 0,1.104 0.896,2 2,2 h 10 c 1.104,0 2,-0.896 2,-2 z M 21,10 H 20 V 4 h -8 v 6 H 11 V 3 H 21 Z M 19,8 H 17 V 5 h 2 z M 15,8 H 13 V 5 h 2 z"
+       style="fill:#ffffff"
+       id="path36"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0;stroke-width:0.86188805"
+       id="rect38"
+       width="32"
+       height="32"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     id="drive-removable-media"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+     transform="translate(54)">
+    <path
+       sodipodi:nodetypes="sssccssccsssscccccccccccccccccccc"
+       d="M 21,29 H 11 C 9.344,29 8,27.656 8,26 V 10 h 16 v 16 c 0,1.656 -1.344,3 -3,3 z M 23,11 H 9 v 15 c 0,1.104 0.896,2 2,2 h 10 c 1.104,0 2,-0.896 2,-2 z M 21,10 H 20 V 4 h -8 v 6 H 11 V 3 H 21 Z M 19,8 H 17 V 5 h 2 z M 15,8 H 13 V 5 h 2 z"
+       style="fill:#ffffff"
+       id="path36-6"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0;stroke-width:0.86188805"
+       id="rect38-7"
+       width="32"
+       height="32"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+     id="22-22-drive-removable-media-usb"
+     transform="translate(0,-22)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1"
+       id="path2-2-3-6"
+       d="M 14,8 V 3 H 8 V 8 H 7 V 2 h 8 v 6 h 2 v 10 c 0,1.104 -0.896,2 -2,2 H 7 C 5.896,20 5,19.104 5,18 V 8 Z m 2,1 H 6 v 9 c 0,0.552 0.448,1 1,1 h 8 c 0.552,0 1,-0.448 1,-1 z M 10,6 H 9 V 4 h 1 z m 3,0 H 12 V 4 h 1 z"
+       sodipodi:nodetypes="cccccccccssssccccssssccccccccccc" />
+    <rect
+       y="0"
+       x="0"
+       height="22"
+       width="22"
+       id="rect817-1-7"
+       style="fill:#ffffff;fill-opacity:0;stroke-width:0.54634756" />
+  </g>
+  <g
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+     id="16-16-drive-removable-media-usb"
+     transform="translate(-16,-16)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1"
+       id="path2-23-3"
+       d="m 12,8 h 1 c 0.552,0 1,0.448 1,1 v 5 c 0,0.552 -0.448,1 -1,1 H 3 C 2.448,15 2,14.552 2,14 V 9 C 2,8.448 2.448,8 3,8 H 4 V 1 h 8 z m 1,1 H 3 v 5 H 13 Z M 11,8 V 2 H 5 V 8 Z M 7,6 H 6 V 3 h 1 z m 3,0 H 9 V 3 h 1 z"
+       sodipodi:nodetypes="csssssssscccccccccccccccccccccccc" />
+    <rect
+       y="0"
+       x="0"
+       height="16"
+       width="16"
+       id="rect817-7-5"
+       style="fill:#ffffff;fill-opacity:0;stroke-width:0.86204332" />
+  </g>
+  <g
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+     id="22-22-drive-removable-media"
+     transform="translate(102,10)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1"
+       id="path2-2-3-2"
+       d="M 14,8 V 3 H 8 V 8 H 7 V 2 h 8 v 6 h 2 v 10 c 0,1.104 -0.896,2 -2,2 H 7 C 5.896,20 5,19.104 5,18 V 8 Z m 2,1 H 6 v 9 c 0,0.552 0.448,1 1,1 h 8 c 0.552,0 1,-0.448 1,-1 z M 10,6 H 9 V 4 h 1 z m 3,0 H 12 V 4 h 1 z"
+       sodipodi:nodetypes="cccccccccssssccccssssccccccccccc" />
+    <rect
+       y="0"
+       x="0"
+       height="22"
+       width="22"
+       id="rect817-1-9"
+       style="fill:#ffffff;fill-opacity:0;stroke-width:0.54634756" />
+  </g>
+  <g
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+     id="16-16-drive-removable-media"
+     transform="translate(86,16)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1"
+       id="path2-23-2"
+       d="m 12,8 h 1 c 0.552,0 1,0.448 1,1 v 5 c 0,0.552 -0.448,1 -1,1 H 3 C 2.448,15 2,14.552 2,14 V 9 C 2,8.448 2.448,8 3,8 H 4 V 1 h 8 z m 1,1 H 3 v 5 H 13 Z M 11,8 V 2 H 5 V 8 Z M 7,6 H 6 V 3 h 1 z m 3,0 H 9 V 3 h 1 z"
+       sodipodi:nodetypes="csssssssscccccccccccccccccccccccc" />
+    <rect
+       y="0"
+       x="0"
+       height="16"
+       width="16"
+       id="rect817-7-7"
+       style="fill:#ffffff;fill-opacity:0;stroke-width:0.86204332" />
   </g>
 </svg>

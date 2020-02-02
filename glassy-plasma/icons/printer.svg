@@ -10,7 +10,7 @@
    viewBox="0 0 32 32"
    id="svg"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    width="32"
    height="32"
    sodipodi:docname="printer.svg">
@@ -116,9 +116,9 @@
      inkscape:window-height="1009"
      id="namedview32"
      showgrid="true"
-     inkscape:zoom="1"
-     inkscape:cx="25.214034"
-     inkscape:cy="7.828084"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="9.3046778"
+     inkscape:cy="23.376827"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -128,41 +128,63 @@
      inkscape:guide-bbox="true"
      inkscape:snap-bbox="true"
      inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:bbox-nodes="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid827"
+       originx="32"
+       originy="0" />
+  </sodipodi:namedview>
   <g
-     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+     id="16-16-printer"
+     transform="translate(54,13)">
+    <path
+       id="rect826"
+       d="M 3,1 V 2 4 H 1 v 4 1 3 h 2 v 2 1 h 1 9 v -1 -2 h 2 V 9 8 4 H 13 V 1 H 4 Z m 1,1 h 8 V 4 H 4 Z M 2,5 H 14 V 8 H 2 Z m 8,1 v 1 h 3 V 6 Z M 2,9 h 1 v 2 H 2 Z m 2,0 h 8 v 5 H 4 Z m 9,0 h 1 v 2 h -1 z m -8,1 v 1 h 6 v -1 z m 0,2 v 1 h 6 v -1 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-linecap:square"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="0"
+       x="0"
+       height="16"
+       width="16"
+       id="rect863"
+       style="opacity:1;fill:#00ff00;fill-opacity:0;stroke-linecap:square" />
+  </g>
+  <g
+     id="22-22-printer"
+     transform="translate(32,10)">
+    <path
+       id="rect829"
+       d="M 5,2 V 3 6 H 3 2 v 1 10 h 1 2 v 2 1 h 12 v -1 -2 h 3 V 16 7 6 H 19 17 V 2 H 6 Z M 6,3 H 16 V 6 H 6 Z M 3,7 h 2 1 13 v 6.009766 H 17 V 13 h -1 v 0.0098 H 6 V 13 H 5 v 0.0098 H 3 Z m 13,1 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m 0,1 a 1,1 0 0 1 1,1 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 z M 3,14 h 2 v 2 H 3 Z m 3,0 h 10 v 2 1 2 H 6 v -2 -1 z m 11,0 h 2 v 2 H 17 Z M 7,15 v 1 h 8 v -1 z m 0,2 v 1 h 8 v -1 z"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="0"
+       x="0"
+       height="22"
+       width="22"
+       id="rect865"
+       style="fill:#ffff00;fill-opacity:0" />
+  </g>
+  <g
      id="printer">
     <path
-       inkscape:connector-curvature="0"
-       id="path2"
-       style="fill:#C3C7D1"
-       d="m 27,24 h -1 v 2 h -2 v 3 H 8 V 26 H 6 V 24 H 5 C 3.896,24 3,23.104 3,22 V 12 C 3,10.896 3.896,10 5,10 H 8 V 3 h 16 v 7 h 3 c 1.104,0 2,0.896 2,2 v 10 c 0,1.104 -0.896,2 -2,2 z M 9,19 v 9 h 14 v -9 z m 7,7 h 5 v 1 H 16 Z M 27,11 H 5 c -0.552,0 -1,0.448 -1,1 v 10 c 0,0.552 0.448,1 1,1 h 1 v -2 h 1 v 4 H 8 V 19 H 4 v -1 h 24 v -6 c 0,-0.552 -0.448,-1 -1,-1 z M 11,23 h 10 v 1 H 11 Z m 0,-3 h 10 v 1 H 11 Z M 24.5,12 C 25.88,12 27,13.12 27,14.5 27,15.88 25.88,17 24.5,17 23.12,17 22,15.88 22,14.5 22,13.12 23.12,12 24.5,12 Z m 0,1 C 25.328,13 26,13.672 26,14.5 26,15.328 25.328,16 24.5,16 23.672,16 23,15.328 23,14.5 23,13.672 23.672,13 24.5,13 Z M 9,4 v 6 H 23 V 4 Z m 15,15 v 6 h 1 v -4 h 1 v 2 h 1 c 0.552,0 1,-0.448 1,-1 v -3 z" />
+       id="rect873"
+       d="m 8,3 v 1 6 H 4 3 v 1 7 1 5 h 1 2 v 1 1 h 2 v 2 1 h 16 v -1 -2 h 2 v -1 -1 h 3 V 23 11 10 H 28 24 V 3 H 9 Z m 1,1 h 14 v 6 H 9 Z m -5,7 h 4 1 14 1 4 v 7 H 4 Z m 20.5,1 A 2.5,2.5 0 0 0 22,14.5 2.5,2.5 0 0 0 24.5,17 2.5,2.5 0 0 0 27,14.5 2.5,2.5 0 0 0 24.5,12 Z m 0,1 A 1.5,1.5 0 0 1 26,14.5 1.5,1.5 0 0 1 24.5,16 1.5,1.5 0 0 1 23,14.5 1.5,1.5 0 0 1 24.5,13 Z M 4,19 h 4 v 2 2 1 1 H 7 V 24 23 21 H 6 v 2 H 4 Z m 5,0 h 14 v 4 1 4 H 9 v -4 -1 z m 15,0 h 4 v 4 h -2 v -2 h -1 v 4 h -1 z m -13,1 v 1 h 10 v -1 z m 0,3 v 1 h 10 v -1 z m 5,3 v 1 h 5 v -1 z"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:connector-curvature="0" />
     <rect
        y="0"
        x="0"
        height="32"
        width="32"
-       id="rect817"
-       style="fill:#ffffff;fill-opacity:0;stroke-width:1.01498103" />
-  </g>
-  <g
-     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
-     id="22-22-printer"
-     transform="translate(32,10)">
-    <path
-       inkscape:connector-curvature="0"
-       id="path2-1"
-       style="fill:#C3C7D1"
-       d="m 17,6.016 h 1 c 1.104,0 2,0.896 2,2 v 6.988 c 0,1.103 -0.896,2 -2,2 H 17 V 20 H 5 V 17.004 H 4.019 c -1.104,0 -2,-0.897 -2,-2 V 14.01 H 2 v -1 H 2.019 V 8.016 c 0,-1.104 0.896,-2 2,-2 H 5 V 2 H 17 Z M 16,14.01 H 6 V 19 h 10 z m -8.991,2.994 h 8 V 18 h -8 z M 19.013,14.01 H 17 v 2.006 h 1.013 c 0.552,0 1,-0.448 1,-1 z M 5,16.016 V 14.01 H 3.006 v 1.006 c 0,0.552 0.448,1 1,1 z M 7.009,15 h 8 v 1 h -8 z M 19.013,13.01 V 8.004 c 0,-0.552 -0.448,-1 -1,-1 H 4.006 c -0.552,0 -1,0.448 -1,1 V 13.01 Z M 16,8 c 1.104,0 2,0.896 2,2 0,1.104 -0.896,2 -2,2 -1.104,0 -2,-0.896 -2,-2 0,-1.104 0.896,-2 2,-2 z m 0,1 c 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 z M 16,6.016 V 3 H 6 v 3.016 z" />
-    <rect
-       style="fill:#ff0000;fill-opacity:0;stroke-width:0.87534779"
-       y="0"
-       x="0"
-       height="22"
-       width="22"
-       id="rect12" />
+       id="rect943"
+       style="fill:#ffff00;fill-opacity:0" />
   </g>
 </svg>

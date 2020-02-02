@@ -12,8 +12,8 @@
    width="22"
    height="22"
    viewBox="0 0 22 22"
-   sodipodi:docname="mail.svgz"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="mail.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -27,13 +27,15 @@
      inkscape:window-height="1011"
      id="namedview12"
      showgrid="true"
-     inkscape:zoom="7.5853273"
-     inkscape:cx="-0.60413041"
-     inkscape:cy="17.596427"
+     inkscape:zoom="10.727273"
+     inkscape:cx="25.675591"
+     inkscape:cy="-4.221277"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4153">
+     inkscape:current-layer="svg4153"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid832" />
@@ -96,7 +98,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path2"
-       style="fill:#C3C7D1"
+       style="fill:#ffffff"
        d="M 20,18 H 2 V 4 H 20 Z M 7.878,11.207 3.222,15.864 C 3.123,15.963 3.049,16.078 3,16.2 v 0.741 c 0.008,0.02 0.016,0.04 0.026,0.059 H 18.974 C 18.984,16.981 18.992,16.961 19,16.941 V 16.2 c -0.049,-0.122 -0.123,-0.237 -0.222,-0.336 l -4.656,-4.657 -1.708,1.708 c -0.78,0.78 -2.048,0.78 -2.828,0 z M 3,14.671 7.171,10.5 3,6.329 Z M 14.829,10.5 19,14.671 V 6.329 Z M 18.892,5 H 3.108 c 0.033,0.048 0.071,0.094 0.114,0.136 l 7.071,7.071 c 0.39,0.391 1.024,0.391 1.414,0 L 18.778,5.136 C 18.821,5.094 18.859,5.048 18.892,5 Z" />
     <rect
        y="0"
@@ -114,7 +116,7 @@
        inkscape:connector-curvature="0"
        id="path2-8"
        d="M 2,25 V 39 H 12 V 38 H 3.0253906 C 3.0153906,37.981 3.008,37.961406 3,37.941406 v -0.742187 c 0.049,-0.122 0.1236563,-0.236938 0.2226562,-0.335938 l 4.65625,-4.65625 1.7070313,1.707031 c 0.7800005,0.780001 2.0481255,0.780001 2.8281245,0 L 14.121094,32.207031 14.914062,33 h 1.414063 l -1.5,-1.5 L 19,27.328125 V 33 h 1 v -8 z m 1.1074219,1 H 18.892578 c -0.033,0.048 -0.07223,0.09472 -0.115234,0.136719 l -7.070313,7.070312 c -0.39,0.391 -1.024062,0.391 -1.414062,0 L 3.2226562,26.136719 C 3.1796562,26.094719 3.1404219,26.048 3.1074219,26 Z M 3,27.328125 7.171875,31.5 3,35.671875 Z"
-       style="clip-rule:evenodd;fill:#C3C7D1;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996" />
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996" />
     <rect
        y="21"
        x="0"
@@ -127,6 +129,45 @@
        cy="38"
        cx="17"
        id="path862"
-       style="fill:#268aff;fill-opacity:1" />
+       style="fill:#1e8ff4;fill-opacity:1" />
+  </g>
+  <g
+     id="16-16-mail-unread"
+     transform="translate(44,6)">
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path830"
+       d="M 1,2 V 14 H 15 V 2 Z M 2,3 H 14 V 3.5410156 L 8,8.6835938 2,3.5410156 Z M 2,4.8574219 4.9941406,7.4238281 2,11.017578 Z m 12,0 V 11.017578 L 11.005859,7.4238281 Z M 5.7558594,8.0761719 8,10 10.244141,8.0761719 14,12.582031 V 13 H 2 v -0.417969 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <rect
+       y="0"
+       x="0"
+       height="16"
+       width="16"
+       id="rect861"
+       style="opacity:1;fill:#00ff00;fill-opacity:0;stroke-linecap:square;stroke-linejoin:miter" />
+  </g>
+  <g
+     id="16-16-mail-unread-new">
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path830-8"
+       d="m 61,8 v 12 h 8 V 19 H 62 V 18.582031 L 65.755859,14.076172 68,16 70.244141,14.076172 71.013672,15 h 1.304687 L 71.005859,13.423828 74,10.857422 V 15 h 1 V 8 Z m 1,1 H 74 V 9.5410156 L 68,14.683594 62,9.5410156 Z m 0,1.857422 2.994141,2.566406 L 62,17.017578 Z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <rect
+       y="6"
+       x="60"
+       height="16"
+       width="16"
+       id="rect861-2"
+       style="opacity:1;fill:#00ff00;fill-opacity:0;stroke-linecap:square;stroke-linejoin:miter" />
+    <circle
+       r="3"
+       cy="19"
+       cx="73"
+       id="path856"
+       style="opacity:1;fill:#1e8ff4;fill-opacity:1;stroke-width:1.19999993;stroke-linecap:square;stroke-linejoin:miter" />
   </g>
 </svg>

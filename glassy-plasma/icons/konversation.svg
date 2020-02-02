@@ -148,7 +148,7 @@
          inkscape:connector-curvature="0"
          id="path2"
          d="M 4,3 C 2.896,3 2,3.896 2,5 v 8 c 0,1.104 0.896,2 2,2 h 1 v 4 H 6 V 18.998 L 10,15 h 8 c 1.104,0 2,-0.896 2,-2 V 5 C 20,3.896 19.104,3 18,3 Z m 0,1 h 14 c 0.552,0 1,0.448 1,1 v 8 c 0,0.552 -0.448,1 -1,1 H 9.5859375 L 6,17.585938 V 14 H 4 C 3.448,14 3,13.552 3,13 V 5 C 3,4.448 3.448,4 4,4 Z"
-         style="fill:#C3C7D1"
+         style="fill:#FFFFFF"
          sodipodi:nodetypes="sssscccccsssssssssscccssss" />
       <rect
          y="0"

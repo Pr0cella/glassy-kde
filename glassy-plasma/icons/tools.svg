@@ -11,7 +11,9 @@
    id="svg2"
    viewBox="0 0 54 32"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="apport.svg">
+   sodipodi:docname="tools.svg"
+   width="54"
+   height="32">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -22,20 +24,26 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1017"
      id="namedview12"
      showgrid="true"
      inkscape:zoom="7.375"
-     inkscape:cx="-9.8713845"
-     inkscape:cy="21.263633"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:cx="31.080879"
+     inkscape:cy="0.42856599"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="apport"
-     inkscape:pagecheckerboard="true">
+     inkscape:current-layer="svg2"
+     inkscape:pagecheckerboard="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
-       id="grid818" />
+       id="grid818"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <metadata
      id="metadata18">
@@ -45,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,7 +68,7 @@
       </style>
   </defs>
   <g
-     id="apport"
+     id="tools-report-bug"
      transform="translate(11,2)">
     <path
        inkscape:connector-curvature="0"
@@ -82,7 +90,7 @@
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.3844564;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
-     id="22-22-apport"
+     id="22-22-tools-report-bug"
      transform="translate(0,10)">
     <path
        inkscape:connector-curvature="0"

@@ -13,8 +13,8 @@
    height="22"
    id="svg3869"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="kgpg.svgz"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="kgpg.svg"
    viewBox="0 0 22 22">
   <defs
      id="defs3871">
@@ -63,9 +63,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-16.584291"
-     inkscape:cy="13.944031"
+     inkscape:zoom="5.656854"
+     inkscape:cx="17.58144"
+     inkscape:cy="-1.8060748"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -74,11 +74,14 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:pagecheckerboard="true">
     <inkscape:grid
        type="xygrid"
        id="grid4132"
@@ -93,7 +96,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -109,7 +112,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path2-8"
-         style="fill:#C3C7D1"
+         style="fill:#ffffff"
          d="m 4,11 h 14 v 9 H 4 Z m 13,8 V 12 H 5 v 7 z M 9,11 H 8 V 7 c 0,-1.656 1.344,-3 3,-3 1.656,0 3,1.344 3,3 v 4 H 13 V 7 C 13,5.896 12.104,5 11,5 9.896,5 9,5.896 9,7 Z M 7,11 H 6 V 7 c 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 v 4 H 15 V 7 C 15,4.792 13.208,3 11,3 8.792,3 7,4.792 7,7 Z" />
       <rect
          ry="1.1683168"
@@ -119,6 +122,22 @@
          width="22"
          id="rect817"
          style="fill:#ffff00;fill-opacity:0;stroke-width:1.15973663;stroke-miterlimit:1.41420996;stroke-dasharray:none" />
+    </g>
+    <g
+       id="16-16-kgpg">
+      <rect
+         y="540.36218"
+         x="348"
+         height="16"
+         width="16"
+         id="rect819"
+         style="clip-rule:evenodd;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke-width:1.06307387;stroke-linejoin:round;stroke-miterlimit:1.41420996" />
+      <path
+         id="rect831"
+         transform="translate(348,540.3622)"
+         d="M 8,1 C 5.784,1 4,2.784 4,5 V 8 H 2 v 7 H 14 V 8 H 12 V 5 C 12,2.784 10.216,1 8,1 Z m 0,1 c 1.662,0 3,1.338 3,3 V 8 H 10 V 5 C 10,3.892 9.108,3 8,3 6.892,3 6,3.892 6,5 V 8 H 5 V 5 C 5,3.338 6.338,2 8,2 Z M 8,4 C 8.554,4 9,4.446 9,5 V 8 H 7 V 5 C 7,4.446 7.446,4 8,4 Z M 3,9 h 1 1 6 1 1 v 5 H 3 Z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-linecap:square"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>

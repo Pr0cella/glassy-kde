@@ -10,7 +10,7 @@
    viewBox="0 0 22 22"
    id="svg"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    width="100%"
    height="100%"
    sodipodi:docname="quassel.svgz">
@@ -76,14 +76,14 @@
      inkscape:pageopacity="0.03921569"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1017"
      id="namedview32"
      showgrid="true"
      inkscape:zoom="11.313708"
-     inkscape:cx="-29.748102"
+     inkscape:cx="-13.882393"
      inkscape:cy="19.076154"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg"
      borderlayer="true"
@@ -99,7 +99,7 @@
      id="quassel">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#C3C7D1;fill-opacity:1"
+       style="fill:#FFFFFF;fill-opacity:1"
        id="path2-0"
        d="m 14,9 v 5 H 8 V 9 8 h 6 z M 13,9 H 9 v 4 h 4 z m 4,11 H 13 V 17 H 9 v 3 H 5 V 17 H 2 V 13 H 5 V 9 H 2 V 5 H 5 V 2 h 4 v 3 h 4 V 2 h 4 v 3 h 3 v 4 h -3 v 4 h 3 v 4 H 17 Z M 6,6 H 3 v 2 h 3 v 6 H 3 v 2 h 3 v 3 h 2 v -3 h 6 v 3 h 2 v -3 h 3 V 14 H 16 V 13 9 8 h 3 V 6 H 16 V 5 3 H 14 V 6 H 8 V 5 3 H 6 Z" />
     <rect
@@ -117,7 +117,7 @@
      transform="translate(22)">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#268aff;fill-opacity:1"
+       style="fill:#1e8ff4;fill-opacity:1"
        id="path2-0-2"
        d="m 14,9 v 5 H 8 V 9 8 h 6 z M 13,9 H 9 v 4 h 4 z m 4,11 H 13 V 17 H 9 v 3 H 5 V 17 H 2 V 13 H 5 V 9 H 2 V 5 H 5 V 2 h 4 v 3 h 4 V 2 h 4 v 3 h 3 v 4 h -3 v 4 h 3 v 4 H 17 Z M 6,6 H 3 v 2 h 3 v 6 H 3 v 2 h 3 v 3 h 2 v -3 h 6 v 3 h 2 v -3 h 3 V 14 H 16 V 13 9 8 h 3 V 6 H 16 V 5 3 H 14 V 6 H 8 V 5 3 H 6 Z" />
     <rect
@@ -135,7 +135,7 @@
      transform="translate(-22)">
     <path
        inkscape:connector-curvature="0"
-       style="opacity:0.6;fill:#C3C7D1;fill-opacity:1"
+       style="opacity:0.6;fill:#FFFFFF;fill-opacity:1"
        id="path2-0-2-7"
        d="m 14,9 v 5 H 8 V 9 8 h 6 z M 13,9 H 9 v 4 h 4 z m 4,11 H 13 V 17 H 9 v 3 H 5 V 17 H 2 V 13 H 5 V 9 H 2 V 5 H 5 V 2 h 4 v 3 h 4 V 2 h 4 v 3 h 3 v 4 h -3 v 4 h 3 v 4 H 17 Z M 6,6 H 3 v 2 h 3 v 6 H 3 v 2 h 3 v 3 h 2 v -3 h 6 v 3 h 2 v -3 h 3 V 14 H 16 V 13 9 8 h 3 V 6 H 16 V 5 3 H 14 V 6 H 8 V 5 3 H 6 Z" />
     <rect

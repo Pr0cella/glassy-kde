@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
+   width="32"
+   height="32"
    id="svg3869"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="kget.svgz"
-   viewBox="0 0 22 22">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="kget.svg"
+   viewBox="0 0 32 32">
   <defs
      id="defs3871">
     <style
@@ -63,9 +63,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="14.656577"
-     inkscape:cy="4.0612409"
+     inkscape:zoom="1"
+     inkscape:cx="-396.96522"
+     inkscape:cy="136.79467"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -74,18 +74,19 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      viewbox-height="32"
-     borderlayer="true">
+     borderlayer="true"
+     inkscape:pagecheckerboard="true">
     <inkscape:grid
        type="xygrid"
        id="grid4132"
-       originx="0"
-       originy="-1.4782812e-05" />
+       originx="-37.92969"
+       originy="5.2171881e-06" />
   </sodipodi:namedview>
   <metadata
      id="metadata3874">
@@ -95,7 +96,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -103,16 +104,16 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-326,-534.36218)">
+     transform="translate(-363.92969,-524.3622)">
     <g
        style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
        id="22-22-kget"
-       transform="translate(326.07031,534.36218)">
+       transform="translate(342,534.36219)">
       <path
          inkscape:connector-curvature="0"
          id="path2"
          d="M 9,2 V 3 8 H 6.2011719 4.7871094 L 10.929688,14.142578 17.070312,8 H 16 13 V 2 Z m 1,1 h 2 v 6 h 1 1.65625 L 10.929688,12.728516 7.2011719,9 H 9 10 Z M 2,13 v 7 h 18 v -7 h -4 v 3 H 6 v -3 z m 1,1 h 2 v 3 H 17.015625 L 17,14 h 2 v 5 H 3 Z"
-         style="fill:#C3C7D1" />
+         style="fill:#ffffff" />
       <rect
          y="0"
          x="0"
@@ -124,16 +125,16 @@
     <g
        style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
        id="kget"
-       transform="translate(348,524.36219)">
+       transform="translate(363.92969,524.3622)">
       <path
          inkscape:connector-curvature="0"
          id="path2-0"
-         style="fill:#C3C7D1"
+         style="fill:#ffffff"
          d="m 19,13 h 4 l -7,7 -7,-7 h 4 V 4 h 6 z M 18,5 h -4 v 9 H 11.414 L 16,18.586 20.586,14 H 18 Z" />
       <path
          inkscape:connector-curvature="0"
          id="path4"
-         style="fill:#C3C7D1"
+         style="fill:#ffffff"
          d="M 29,28 H 3 V 17 h 5 v 5 h 16 v -5 h 5 z M 28,18 h -3 v 5 H 7 V 18 H 4 v 9 h 24 z" />
       <rect
          y="0"
@@ -142,6 +143,30 @@
          width="32"
          id="rect822"
          style="fill:#ffffff;fill-opacity:0;stroke-width:0.97570658" />
+    </g>
+    <g
+       id="16-16-kget">
+      <g
+         id="g852">
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-linecap:square"
+           d="m 332.00002,541.36219 v 1 2.99997 h -1.48438 -0.51562 -0.89844 l -0.0508,0.0508 0.94922,0.94922 4,4 4,-4 0.94922,-0.94922 -0.0508,-0.0508 h -0.8984 -0.51563 -1.48437 v -3.99997 z m 1,1 h 2 v 2.99997 1 h 1.58594 l -2.58594,2.58594 -2.58594,-2.58594 h 1.58594 v -1 z"
+           id="path859"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
+        <path
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-linecap:square"
+           d="m 327,549.36219 v 1 4 1 h 1 12 1 v -1 -5 h -2 -1 v 1 1 h -8 v -2 z m 1,1 h 1 v 2 h 1 9 v -1 -1 h 1 v 4 h -12 z"
+           id="rect833"
+           inkscape:connector-curvature="0" />
+      </g>
+      <rect
+         y="540.36218"
+         x="326"
+         height="16"
+         width="16"
+         id="rect854"
+         style="opacity:1;fill:#00ffff;fill-opacity:0;stroke-linecap:square" />
     </g>
   </g>
 </svg>

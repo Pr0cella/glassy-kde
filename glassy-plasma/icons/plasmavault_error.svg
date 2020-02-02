@@ -11,10 +11,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg4153"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    width="32.000004"
    height="32"
-   sodipodi:docname="plasmavault_error.svgz"
+   sodipodi:docname="plasmavault_error.svg"
    viewBox="0 0 32.000004 32">
   <metadata
      id="metadata4159">
@@ -84,9 +84,9 @@
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:zoom="8"
-     inkscape:cx="47.982435"
-     inkscape:cy="9.5364216"
+     inkscape:zoom="4"
+     inkscape:cx="-100.62363"
+     inkscape:cy="-4.6519256"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -106,7 +106,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path2-9"
-       style="fill:#ff4d62;fill-opacity:1"
+       style="fill:#ff2851;fill-opacity:1"
        d="m 14,9 h 1 V 6 C 15,4.344 13.656,3 12,3 H 10 C 8.344,3 7,4.344 7,6 V 9 H 8 V 6 C 8,4.896 8.896,4 10,4 h 2 c 1.104,0 2,0.896 2,2 z m 3,3 v -1 c 0,-0.552 -0.448,-1 -1,-1 H 6 c -0.552,0 -1,0.448 -1,1 v 7 c 0,0.552 0.448,1 1,1 h 10 c 0.552,0 1,-0.448 1,-1 v -1 h -4 v -1 h 4 v -1 h -4 v -1 h 4 V 13 H 13 V 12 Z M 13,9 V 6 C 13,5.448 12.552,5 12,5 H 10 C 9.448,5 9,5.448 9,6 v 3 z m 3,0 c 1.104,0 2,0.896 2,2 v 7 c 0,1.104 -0.896,2 -2,2 H 6 C 4.896,20 4,19.104 4,18 V 11 C 4,9.896 4.896,9 6,9 V 6 C 6,3.792 7.792,2 10,2 h 2 c 2.208,0 4,1.792 4,4 z" />
     <rect
        ry="0.86131382"
@@ -121,15 +121,32 @@
      id="plasmavault_error">
     <path
        inkscape:connector-curvature="0"
-       id="rect828-3-3"
+       id="rect828-3-3-3"
        d="M 5,3 C 3.892,3 3,3.892 3,5 v 8 1 13 c 0,1.108 0.892,2 2,2 h 22 c 1.108,0 2,-0.892 2,-2 V 9 C 29,7.892 28.108,7 27,7 H 25 19 C 17,7 16,3 13,3 Z m 0,1 h 8 c 1.561278,0 2.517469,2.430576 4.287109,3.5 C 15.517469,8.569424 14.561278,11 13,11 H 7 5 C 4.63307,11 4.295001,11.104291 4,11.275391 V 5 C 4,4.446 4.446,4 5,4 Z m 14,4 h 6 2 c 0.554,0 1,0.446 1,1 v 18 c 0,0.554 -0.446,1 -1,1 H 5 C 4.446,28 4,27.554 4,27 V 14 13 c 0,-0.554 1,-1 1,-1 h 2 6 c 3,0 4,-4 6,-4 z m -3,7 a 3,3 0 0 0 -3,3 3,3 0 0 0 1,2.230469 V 23 c 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 V 20.230469 A 3,3 0 0 0 19,18 3,3 0 0 0 16,15 Z m 0,1 a 2,2 0 0 1 2,2 2,2 0 0 1 -1,1.728516 V 20 20.824219 23 c 0,0.554 -0.446,1 -1,1 -0.554,0 -1,-0.446 -1,-1 V 20.826172 20 19.730469 A 2,2 0 0 1 14,18 2,2 0 0 1 16,16 Z"
-       style="opacity:1;fill:#ff4d62;fill-opacity:1;stroke-width:1.02353263" />
+       style="opacity:1;fill:#ff2851;fill-opacity:1;stroke-width:1.02353263" />
     <rect
        y="0"
        x="1.9073486e-06"
        height="32"
        width="32"
-       id="rect869"
+       id="rect869-6"
        style="opacity:1;fill:#00ffff;fill-opacity:0" />
+  </g>
+  <g
+     id="16-16-plasmavault_error"
+     transform="translate(-16,16)">
+    <path
+       id="rect834"
+       d="M 8,1 C 5.784,1 4,2.784 4,5 V 8 C 2.892,8 2,8.892 2,10 v 3 c 0,1.108 0.892,2 2,2 h 8 c 1.108,0 2,-0.892 2,-2 V 12 10 C 14,8.892 13.108,8 12,8 V 5 C 12,2.784 10.216,1 8,1 Z M 8,2 C 8.831,2 9.5807967,2.3347031 10.123047,2.8769531 10.665297,3.4192031 11,4.169 11,5 V 8 H 10 V 5 C 10,3.892 9.108,3 8,3 6.892,3 6,3.892 6,5 V 8 H 5 V 5 C 5,4.169 5.3347031,3.4192031 5.8769531,2.8769531 6.4192031,2.3347031 7.169,2 8,2 Z M 8,4 C 8.554,4 9,4.446 9,5 V 8 H 7 V 5 C 7,4.446 7.446,4 8,4 Z M 4,9 h 1 6 1 c 0.277,0 0.526281,0.1122188 0.707031,0.2929688 C 12.887781,9.4737186 13,9.723 13,10 h -3 v 1 h 3 v 1 h -3 v 1 h 3 c 0,0.277 -0.112219,0.526281 -0.292969,0.707031 C 12.526281,13.887781 12.277,14 12,14 H 4 C 3.723,14 3.4737187,13.887781 3.2929688,13.707031 3.1122187,13.526281 3,13.277 3,13 V 10 C 3,9.723 3.1122188,9.4737186 3.2929688,9.2929688 3.4737186,9.1122188 3.723,9 4,9 Z"
+       style="opacity:1;fill:#ff2851;fill-opacity:1;stroke-linecap:square"
+       inkscape:connector-curvature="0" />
+    <rect
+       ry="0"
+       y="0"
+       x="0"
+       height="16"
+       width="16"
+       id="rect872"
+       style="opacity:1;fill:#00ff00;fill-opacity:0;stroke-linecap:square" />
   </g>
 </svg>

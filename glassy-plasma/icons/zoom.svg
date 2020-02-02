@@ -13,9 +13,9 @@
    height="44"
    id="svg7229"
    sodipodi:version="0.32"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    version="1.0"
-   sodipodi:docname="zoom.svgz"
+   sodipodi:docname="zoom.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
    viewBox="0 0 45.999996 44">
   <defs
@@ -24,25 +24,25 @@
        id="current-color-scheme"
        type="text/css">
       .ColorScheme-Text {
-        color:#000000;
+        color:#FFFFFF;
       }
       .ColorScheme-Background{
         color:#E9E8E8;
       }
       .ColorScheme-ViewText {
-        color:#000000;
+        color:#FFFFFF;
       }
       .ColorScheme-ViewBackground{
         color:#ffffff;
       }
       .ColorScheme-ViewHover {
-        color:#000000;
+        color:#FFFFFF;
       }
       .ColorScheme-ViewFocus{
         color:#5a5a5a;
       }
       .ColorScheme-ButtonText {
-        color:#000000;
+        color:#FFFFFF;
       }
       .ColorScheme-ButtonBackground{
         color:#E9E8E8;
@@ -100,15 +100,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="8"
-     inkscape:cx="6.3942472"
+     inkscape:cx="-15.168253"
      inkscape:cy="22.476743"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="960"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="36"
      showguides="true"
      inkscape:guide-bbox="true"
      gridtolerance="6"
@@ -153,7 +153,7 @@
          inkscape:connector-curvature="0"
          id="rect2"
          d="M 2,2 V 3 H 20 V 2 Z M 10.96875,4 8,7 h 2 v 8 H 8 L 10.96875,18 14,15 H 12 V 7 h 2 z M 2,19 v 1 h 18 v -1 z"
-         style="fill:#C3C7D1" />
+         style="fill:#FFFFFF" />
       <rect
          y="0"
          x="0"
@@ -170,7 +170,7 @@
          inkscape:connector-curvature="0"
          id="rect2-3"
          d="M 2,2 V 3 H 20 V 2 Z M 10.96875,4 8,7 h 2 v 8 H 8 L 10.96875,18 14,15 H 12 V 7 h 2 z M 2,19 v 1 h 18 v -1 z"
-         style="fill:#C3C7D1" />
+         style="fill:#FFFFFF" />
       <rect
          y="0"
          x="0"
@@ -186,7 +186,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path2"
-         style="fill:#202021"
+         style="fill:#ffffff;fill-opacity:1"
          d="m 15,14 v 1 H 1 V 14 Z M 10.5,5 H 9 v 6 h 1.5 L 8.012,13 5.5,11 H 7 V 5 H 5.5 L 8.012,3 Z M 15,1 V 2 H 1 V 1 Z" />
       <rect
          y="0"
@@ -203,7 +203,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path2-8"
-         style="fill:#202021"
+         style="fill:#ffffff;fill-opacity:1"
          d="m 15,14 v 1 H 1 V 14 Z M 10.5,5 H 9 v 6 h 1.5 L 8.012,13 5.5,11 H 7 V 5 H 5.5 L 8.012,3 Z M 15,1 V 2 H 1 V 1 Z" />
       <rect
          y="0"
