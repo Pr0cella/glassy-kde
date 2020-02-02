@@ -1,10 +1,12 @@
 # Glassy
 ## A minimalistic theme for KDE Plasma 
 
-![Glassy preview](glassy-plasma/preview/preview.png)
-  (Icons: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme))
+![Glassy preview](Pictures/sharp.png)
+
+![Glassy preview](Pictures/round.png)
 
 ### Suggestions:
+
 Apps: [LatteDock](https://github.com/KDE/latte-dock), [GLava](https://github.com/jarcode-foss/glava)
 
 Icons: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
