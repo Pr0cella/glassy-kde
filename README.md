@@ -35,3 +35,5 @@ Terminal Font: Source Code Pro
 
 > Kvantum theme based on [KvGlass](https://store.kde.org/p/1201321/)
 
+Individual licenses may apply
+
