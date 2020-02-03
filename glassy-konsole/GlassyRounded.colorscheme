@@ -91,6 +91,6 @@ Color=130,137,151
 [General]
 Blur=true
 ColorRandomization=false
-Description=Glassy
-Opacity=0.5
+Description=GlassyRounded
+Opacity=0.49
 Wallpaper=
