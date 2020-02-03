@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=A transparent Plasma theme
+Name=Glassy
+X-KDE-PluginInfo-Author=Pr0cella
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=-
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 3+
+X-KDE-PluginInfo-Name=Glassy
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/Pr0cella/glassy-kde
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1355989,kns://plasma-themes.knsrc/api.kde-look.org/1355685,kns://aurorae.knsrc/api.kde-look.org/1355991,kns://icons.knsrc/api.kde-look.org/1166289,kns://wallpaper.knsrc/api.kde-look.org/1310882,kns://sddmtheme.knsrc/api.kde-look.org/1312086
